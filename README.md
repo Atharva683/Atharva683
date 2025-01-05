@@ -72,8 +72,8 @@ Deep Learning excites me, and I'm always curious to learn more!
 </p>
 
 ---
-![sanika-14's Stats](https://github-readme-stats.vercel.app/api?username=sanika-14&theme=buefy&show_icons=true&hide_border=true&count_private=true) <br>
-![sanika-14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanika-14&theme=buefy&hide_border=true) <br>
-![sanika-14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanika-14&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+![Atharva683's Stats](https://github-readme-stats.vercel.app/api?username=Atharva683&theme=default&show_icons=true&hide_border=true&count_private=true) <br>
+![Atharva683's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atharva683&theme=default&hide_border=true) <br>
+![Atharva683's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva683&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 </div>
