@@ -6,10 +6,7 @@ https://github.com/Atharva683/Atharva698/blob/main/ben10.gif
 
 ![Hello fam!](https://github.com/Atharva683/Atharva698/blob/main/ben10.gif)
 
- 
-Just an engineering student chasing neural networks and AI for fun.  
-Aspiring to contribute to the development of AGI.  
-Deep Learning excites me, and I'm always curious to learn more!
+I’m an English student. I like machine learning and deep learning. I enjoy writing content, and I’m not stupid.
 
 ---
 <h3 align="center">My social Handles:</h3>
