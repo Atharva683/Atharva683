@@ -1,17 +1,17 @@
 
-https://github.com/Atharva683/Atharva698/blob/main/ben10.gif
+
 # Hey there! I'm Atharva Khollam👋 
 
 <div align="center">
 
 ![Hello fam!](https://github.com/Atharva683/Atharva698/blob/main/ben10.gif)
 
-I’m an English student. I like machine learning and deep learning. I enjoy writing content, and I’m not stupid.
+I’m an Engineering student. I like machine learning and deep learning. I enjoy writing content, and I’m not stupid.
 
 ---
 <h3 align="center">My social Handles:</h3>
 <p align="center">
-<a href="https://x.com/sanikaaa14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanikaaa14" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanikaaa14" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/sanika-kulkarni-a25605257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanika Kulkarni" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/sanikakulk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sanikakulk" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/san145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="San145" height="30" width="40" /></a>
