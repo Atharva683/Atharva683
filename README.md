@@ -6,7 +6,7 @@
 
 ![Hello fam!](https://github.com/Atharva683/Atharva698/blob/main/ben10.gif)
 
-I’m an Engineering student. I like machine learning and deep learning. I enjoy writing content, and I’m not stupid.
+I’m an Engineering student. I am a Data Scientist nad I also like Deep Learning and Gen AI. Outside of work, I enjoy writing stories and poems.
 
 ---
 
